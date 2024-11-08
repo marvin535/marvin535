@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Azure Cloud Services<br>🎯 Goals: Mastering Azure Cloud Services<br>🎲 Fun fact That I never stop on learning. Literally :></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Azure Cloud Services<br>🎲 Fun fact That I never stop on learning. Literally :></p>
 
 ###
 
